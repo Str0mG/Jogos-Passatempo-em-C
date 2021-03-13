@@ -196,7 +196,7 @@ int main(){
     printf("Digite um numero para as dimensoes:\n");
     scanf("%d",&tam);
     system("cls");
-    char matriz[200][200];//colocamos esse tamanho na matriz para haver a possibilidade de mandar ela para um função, mas o usuario que coloca o tamanho ainda
+    char matriz[200][200];//colocamos esse tamanho na matriz para haver a possibilidade de mandar ela para um funÃ§Ã£o, mas o usuario que coloca o tamanho ainda
 //armazenando o caracter _ para da cara ao jogo, e nao deixando a matriz vazia
     for(i=0; i<tam; i++){
         for(j=0; j<tam; j++)
@@ -252,7 +252,7 @@ e todas as jogadas foram feitas isso indica o empate*/
                 }
             }
             cont++;
-            if (cont==tam*tam){//a quantidade de casa a matriz tem e o cont atingiu o valor é empate
+            if (cont==tam*tam){//a quantidade de casa a matriz tem e o cont atingiu o valor Ã© empate
                 printf("\nOs dois sao bons.O jogo deu empate");
                 return 0;
             }
