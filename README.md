@@ -12,7 +12,6 @@
   <li>Blackjack contra o computador</li>
   <li>Jogo da forca com 2 players</li>
   <li>Tente a Sorte</li>
-  <li>Blackjack contra o computador</li>
 </ul>
 
 *OS JOGOS ESTÃO EM DESENVOLVIMENTO, PODENDO HAVER MAIS JOGOS E MELHORIA NOS EXISTENTES*
