@@ -13,5 +13,3 @@
   <li>Jogo da forca com 2 players</li>
   <li>Tente a Sorte</li>
 </ul>
-
-*OS JOGOS ESTÃO EM DESENVOLVIMENTO, PODENDO HAVER MAIS JOGOS E MELHORIA NOS EXISTENTES*
